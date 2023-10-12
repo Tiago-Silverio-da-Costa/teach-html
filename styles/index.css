@@ -1,0 +1,19 @@
+.classdiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* height: 100vh; */
+  /* gap: 100px; */
+}
+
+.classdiv2 {
+  display: grid;
+}
+
+.title {
+  color: pink;
+  font-size: 260px;
+  font-weight: 700;
+  line-height: 0.8;
+  text-transform: uppercase;
+}
